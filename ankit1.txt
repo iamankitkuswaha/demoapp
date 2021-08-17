@@ -1,3 +1,4 @@
 Jay Siya Ram, This is my first git file.:
-:wq
+
+ i am upadating my current git file. 
 
